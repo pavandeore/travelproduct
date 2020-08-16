@@ -1,0 +1,38 @@
+.jumbotron{
+    background: url(https://freenaturestock.com/wp-content/uploads/freenaturestock-1661-1024x683.jpg);
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center center;
+    height: 90vh;
+    width: 100vw;
+}
+.logo{
+    width: 110px;
+    height: 100px;
+    margin-left: -20px;
+}
+.feature{
+    color: #fff;
+    margin-top: 25px;
+}
+.heading{
+    font-weight: 800;
+    font-size: 2.6rem;
+}
+.paragraph{
+    font-size: 1.1rem;
+}
+.btn-style{
+    background: transparent;
+    border: 2px solid black;
+    box-shadow: 4px 5px 2px #413f3f;
+}
+.store-div{
+    position: relative;
+    left: 50%;
+    transform: translateX(-25%);
+}
+.footer{
+    font-size: 1.1rem;
+    background: #c0c0c0;
+}
